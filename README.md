@@ -34,3 +34,9 @@ explains how q-values extend state values by incorporating actions.
 describes how agents update their knowledge using td learning.
 
 - **finally,** [**q-learning implementation**](https://github.com/burcia1711/artificial-intelligence-2025-agentic-ai-gen-ai-and-rl/tree/main/Section%204%20-%20A%20Q-Learning%20Implementation%20for%20Process%20Optimization)
+
+# part 1 - deep q-learning
+
+- **deep q-learning intuition**
+
+- **deep q-learning implementation** 
