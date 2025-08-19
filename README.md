@@ -34,18 +34,18 @@ core concepts and intuition behind **q-learning** and **markov decision processe
 
 ### 🛠️ [deep q-learning implementation](https://github.com/burcia1711/artificial-intelligence-2025-agentic-ai-gen-ai-and-rl/blob/main/Section%207%20-%20Part%201%20-%20Deep%20Q-Learning/Deep%20Q-Learning%20for%20Lunar%20Landing%20-%20Complete%20Code.ipynb)
 - **intro**: training an ai lunar lander with dqn  
-- **environment & colab setup**  
+- environment & colab setup 
 - **pytorch dqn architecture**: building the ai brain  
-- **forward method implementation** 
-- **environment parameters setup**  
+- forward method implementation 
+- environment parameters setup
 - **hyperparameters**: learning rate & replay buffer  
 - **experience replay memory**: implementing push & sample 
-- **q-networks, optimiser, replay buffer initialisation**  
+- q-networks, optimiser, replay buffer initialisation
 - **dqn step method**: storing & learning from experiences  
 - **action selection**: state → policy
 - **training loop**: implementing learning & updates 
-- **creating first ai agent**
-- **epsilon-greedy training initialisation**
+- creating first ai agent
+- epsilon-greedy training initialisation
 - **full training loop**: lunar lander dqn
 - **training visualisation**: dynamic scoring
 - **visualising results**: lunar lander performance
@@ -55,8 +55,32 @@ https://github.com/user-attachments/assets/be7b4e2a-dce8-4157-a03d-a8ed966b9ca3
 
 ---
 
-## 🎮 upcoming: deep convolutional q-learning (pacman)  
-a hands-on extension of dqn where **cnn architectures** are applied for vision-based environments (e.g. atari pacman).  
+## 🎮 part 2 – deep convolutional q-learning (pacman)  
+
+### 🔑 deep convolutional q-learning intuition  
+- **deep learning fundamentals**: neural networks & activation functions  
+- **deep convolutional q-learning**: building ai agents for game environments 
+- comparing deep q-learning vs eligibility trace methods  
+
+### 🛠️ deep convolutional q-learning implementation (practice)  
+- building ai pacman with convolutional neural networks  
+- environment setup in openai gym  
+- implementing dcqn architecture in python  
+- **building cnns**: creating a visual processing system  
+- **cnn architecture**: convolutional + fully connected layers  
+- configuring miss pacman environment  
+- hyperparameters for dcqn  
+- **image preprocessing**: pil & torchvision  
+- experience replay & target networks for dcqn  
+- implementing the dcqn agent  
+- optimising training on gpu  
+- visualising pacman agent performance  
+- optimising neural networks with dcqn  
+
+---
+
+## 🎮 upcoming: critic sense (a3c) 
+once build the full brain at the core of the a3c model, will train our ai to fight kung fu.
 
 ---
 
