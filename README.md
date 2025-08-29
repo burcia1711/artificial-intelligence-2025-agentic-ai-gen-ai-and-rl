@@ -57,12 +57,12 @@ https://github.com/user-attachments/assets/be7b4e2a-dce8-4157-a03d-a8ed966b9ca3
 
 ## 🎮 part 2 – deep convolutional q-learning (pacman)  
 
-### 🔑 deep convolutional q-learning intuition  
+### 🔑 deep convolutional q-learning intuitio
 - **deep learning fundamentals**: neural networks & activation functions  
 - **deep convolutional q-learning**: building ai agents for game environments 
 - comparing deep q-learning vs eligibility trace methods  
 
-### 🛠️ deep convolutional q-learning implementation (practice)  
+### 🛠️ [deep convolutional q-learning implementation (practice)](https://github.com/burcia1711/artificial-intelligence-2025-agentic-ai-gen-ai-and-rl/blob/main/Section%2010%20-%20Part%202%20-%20Deep%20Convolutional%20Q-Learning/Deep_Convolutional_Q_Learning_for_Pac_Man_Complete_Code.ipynb)  
 - building ai pacman with convolutional neural networks  
 - environment setup in openai gym  
 - implementing dcqn architecture in python  
@@ -75,7 +75,9 @@ https://github.com/user-attachments/assets/be7b4e2a-dce8-4157-a03d-a8ed966b9ca3
 - implementing the dcqn agent  
 - optimising training on gpu  
 - visualising pacman agent performance  
-- optimising neural networks with dcqn  
+- optimising neural networks with dcqn
+
+https://github.com/user-attachments/assets/add5c049-5112-4cea-8d62-0626a9edd8c6
 
 ---
 
